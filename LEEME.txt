@@ -1,0 +1,15 @@
+ULTIMA LINEA: ZOMBIE WAR — MINI PRUEBA ANDROID
+
+Incluye:
+- Juego HTML5 offline empaquetado en una app Android WebView.
+- Tres escenarios seleccionables: Normandía, ciudad destruida y búnker.
+- Soldados zombis, oleadas, puntuación, vidas y apoyo automático de tanque aliado.
+- Controles táctiles y teclado.
+
+PARA GENERAR EL APK:
+1. Abrí esta carpeta en Android Studio (versión reciente).
+2. Esperá a que Gradle sincronice el proyecto.
+3. Elegí Build > Build Bundle(s) / APK(s) > Build APK(s).
+4. El APK de prueba aparecerá en app/build/outputs/apk/debug/app-debug.apk.
+
+Este paquete contiene el proyecto fuente. No incluye un APK precompilado.
